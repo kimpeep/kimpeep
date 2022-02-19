@@ -11,4 +11,6 @@
 ####
 ![kimpeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpeep&show_icons=true&theme=radical)
 
+[![Solved.ac
+peeppeep](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 <img src="https://img.shields.io/github/followers/kimpeep?style=social">
