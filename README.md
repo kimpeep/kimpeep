@@ -16,4 +16,4 @@
 <hr>
 
 ### 📫 Contacts
-![PeeP#1212](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&mailto:rnunseoo@gmail.com)](mailto:rnunseoo@gmail.com)
