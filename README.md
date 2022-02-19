@@ -14,4 +14,4 @@
 
 
 ### Contacts
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=PeeP#1212&logoColor=white)
