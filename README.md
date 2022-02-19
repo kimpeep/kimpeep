@@ -19,3 +19,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&mailto:rnunseoo@gmail.com)](mailto:rnunseoo@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&linkto=https://velog.io/@kimpeep/)](https://velog.io/@kimpeep/)
 ![Discord](https://img.shields.io/badge/peep1212-5865F2?style=flat-square&logo=Discord&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eunseo-kim-726a55227/)](https://www.linkedin.com/in/eunseo-kim-726a55227/)
