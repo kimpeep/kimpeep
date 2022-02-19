@@ -4,8 +4,9 @@
 ![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=peeppeep)
 
+<hr>
 
-### Look At My Skills!
+### 💪 Skills
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -13,5 +14,5 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
 
-### ✉ Contacts
+### 📫 Contacts
 ![PeeP#1212](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)
