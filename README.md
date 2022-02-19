@@ -9,6 +9,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
 ####
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![kimpeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpeep&show_icons=true&theme=radical)
 
 <img src="https://img.shields.io/github/followers/kimpeep?style=social">
