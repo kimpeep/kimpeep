@@ -17,4 +17,4 @@
 
 ### 📫 Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&mailto:rnunseoo@gmail.com)](mailto:rnunseoo@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kimpeep)](link=https://velog.io/@kimpeep)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kimpeep/)](link=https://velog.io/@kimpeep/)
